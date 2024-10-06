@@ -1,12 +1,10 @@
-[![MasterHead](https://imgs.search.brave.com/FJ1jHrBo4GCf6Aq7kzquZ8DJqx7RGubo_Lpd1iptE14/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0Lzk2LzQ0LzM1/LzM2MF9GXzQ5NjQ0/MzU4N19yRTdaWEpC/VEwwQ1pmTHRSV1lw/QUF6ZjBEaWRhV2FR/ai5qcGc)
+![MasterHead](https://camo.githubusercontent.com/2a50a7d7ae5024f74fad6ea1cab81c197e975e028147bb9a3d3441296f05af88/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
 
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/et-V10zzizp8cArlR5zOwy-Rs-lrMecpRnk08B-3dj4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.jpeg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh-eppili19&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh-eppili19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh-eppili19" alt="mukesh-eppili19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -37,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh-eppili19&show_icons=true&locale=en" alt="mukesh-eppili19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-eppili19&" alt="mukesh-eppili19" /></p>
-
